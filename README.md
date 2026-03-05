@@ -16,4 +16,4 @@ Bot pessoal de controle financeiro desenvolvido em Python usando Telegram API.
 - APScheduler
 
 ## Autor
-Paloma Antunes
+Geovana Panciera
