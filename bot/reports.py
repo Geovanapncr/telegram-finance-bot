@@ -9,8 +9,8 @@ def gerar_relatorio():
     return f"""
 📊 RELATÓRIO MENSAL
 
-Salário: {SALARIO}
-Total gasto: {gasto}
-Guardado: {guardado}
-Saldo restante: {saldo}
+Salário: {SALARIO:.2f}
+Total gasto: {gasto:.2f}
+Guardado: {guardado:.2f}
+Saldo restante: {saldo:.2f}
 """
